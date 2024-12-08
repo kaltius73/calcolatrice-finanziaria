@@ -168,7 +168,7 @@ def visualizza_risultati():
 
 # Creazione della finestra principale
 root = tk.Tk()
-root.title("Calcolatrice Finanziaria by Antonio Cufari ver. 1.0")
+root.title("Calcolatrice Finanziaria ver. 1.0")
 
 # Creazione dei widget per l'interfaccia
 tk.Label(root, text="Principale (€):").grid(row=0, column=0, padx=10, pady=5)
